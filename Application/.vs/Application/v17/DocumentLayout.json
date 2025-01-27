@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dev\\ASP_NET\\Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F06297D6-29CE-43DE-8755-4D6C37793472}|Application\\Application.csproj|d:\\dev\\asp_net\\application\\application\\controllers\\boardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06297D6-29CE-43DE-8755-4D6C37793472}|Application\\Application.csproj|solutionrelative:application\\controllers\\boardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06297D6-29CE-43DE-8755-4D6C37793472}|Application\\Application.csproj|d:\\dev\\asp_net\\application\\application\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06297D6-29CE-43DE-8755-4D6C37793472}|Application\\Application.csproj|solutionrelative:application\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06297D6-29CE-43DE-8755-4D6C37793472}|Application\\Application.csproj|d:\\dev\\asp_net\\application\\application\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06297D6-29CE-43DE-8755-4D6C37793472}|Application\\Application.csproj|solutionrelative:application\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F06297D6-29CE-43DE-8755-4D6C37793472}|Application\\Application.csproj|d:\\dev\\asp_net\\application\\application\\controllers\\alphacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F06297D6-29CE-43DE-8755-4D6C37793472}|Application\\Application.csproj|solutionrelative:application\\controllers\\alphacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BoardController.cs",
+              "DocumentMoniker": "D:\\dev\\ASP_NET\\Application\\Application\\Controllers\\BoardController.cs",
+              "RelativeDocumentMoniker": "Application\\Controllers\\BoardController.cs",
+              "ToolTip": "D:\\dev\\ASP_NET\\Application\\Application\\Controllers\\BoardController.cs",
+              "RelativeToolTip": "Application\\Controllers\\BoardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T16:37:00.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlphaController.cs",
+              "DocumentMoniker": "D:\\dev\\ASP_NET\\Application\\Application\\Controllers\\AlphaController.cs",
+              "RelativeDocumentMoniker": "Application\\Controllers\\AlphaController.cs",
+              "ToolTip": "D:\\dev\\ASP_NET\\Application\\Application\\Controllers\\AlphaController.cs",
+              "RelativeToolTip": "Application\\Controllers\\AlphaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T16:32:52.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\dev\\ASP_NET\\Application\\Application\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Application\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\dev\\ASP_NET\\Application\\Application\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Application\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T16:31:15.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\dev\\ASP_NET\\Application\\Application\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Application\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\dev\\ASP_NET\\Application\\Application\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Application\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T16:26:02.059Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
