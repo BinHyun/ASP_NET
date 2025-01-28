@@ -1,0 +1,40 @@
+﻿@model List<Application.Models.Document>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>List</title>
+</head>
+<body>
+    <div> 
+        <table>
+            <thead>
+                <tr>
+                    <th>번호</th>
+                    <th>제목</th>
+                    <th>글쓴이</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!--
+                Razor 문법 c# 의 문법을 바로 가져다 쓸 수 있다.
+                사용하기전 반드시 앞에 골뱅이를 붙여 줘야 한다. 
+                -->
+                @foreach(var item in Model)
+                {
+                    <tr>
+                        <td>@item.Document_Number</td>
+                        <td>@item.Title</td>
+                        <td>@item.Writer</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
