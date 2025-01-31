@@ -12,13 +12,16 @@ namespace Application.Controllers
     {
         // GET: Board
         //매개변수 설정 시, 데이터 타입 뒤에 ? 를 붙여주면 null 허용
-        public ActionResult List(int? id)
+        public ActionResult List()
         {
-            if(id == null)
-                return HttpNotFound();
-            
             DocumentActs documentActs = new DocumentActs();
+            MemberActs memberActs = new MemberActs();
+
             var documents = documentActs.GetDocuments();
+            var member = memberActs.GetMember(1);
+
+            //ViewBag.Member = member;
+            ViewData["Member"] = member;
 
             return View(documents);
         }
