@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{F06297D6-29CE-43DE-8755-4D6C37793472}|Application\\Application.csproj|solutionrelative:application\\controllers\\boardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F06297D6-29CE-43DE-8755-4D6C37793472}|Application\\Application.csproj|d:\\dev\\asp_net\\application\\application\\models\\memberacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F06297D6-29CE-43DE-8755-4D6C37793472}|Application\\Application.csproj|D:\\dev\\ASP_NET\\Application\\application\\models\\memberacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F06297D6-29CE-43DE-8755-4D6C37793472}|Application\\Application.csproj|solutionrelative:application\\models\\memberacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F06297D6-29CE-43DE-8755-4D6C37793472}|Application\\Application.csproj|d:\\dev\\asp_net\\application\\application\\data\\memberdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F06297D6-29CE-43DE-8755-4D6C37793472}|Application\\Application.csproj|D:\\dev\\ASP_NET\\Application\\application\\data\\memberdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F06297D6-29CE-43DE-8755-4D6C37793472}|Application\\Application.csproj|solutionrelative:application\\data\\memberdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F06297D6-29CE-43DE-8755-4D6C37793472}|Application\\Application.csproj|d:\\dev\\asp_net\\application\\application\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F06297D6-29CE-43DE-8755-4D6C37793472}|Application\\Application.csproj|D:\\dev\\ASP_NET\\Application\\application\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F06297D6-29CE-43DE-8755-4D6C37793472}|Application\\Application.csproj|solutionrelative:application\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -41,6 +41,10 @@
           "SelectedChildIndex": 7,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "List.cshtml",
@@ -50,12 +54,7 @@
               "RelativeToolTip": "Application\\Views\\Board\\List.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-28T16:10:42.126Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "WhenOpened": "2025-01-28T16:10:42.126Z"
             },
             {
               "$type": "Document",
@@ -67,8 +66,7 @@
               "RelativeToolTip": "Application\\Models\\MemberActs.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T11:51:19.798Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T11:51:19.798Z"
             },
             {
               "$type": "Document",
@@ -80,8 +78,7 @@
               "RelativeToolTip": "Application\\Data\\MemberData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T11:45:45.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T11:45:45.637Z"
             },
             {
               "$type": "Document",
@@ -93,8 +90,7 @@
               "RelativeToolTip": "Application\\Data\\DocumentData.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T16:25:20.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T16:25:20.441Z"
             },
             {
               "$type": "Document",
@@ -106,8 +102,7 @@
               "RelativeToolTip": "Application\\Models\\Document.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T16:22:15.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T16:22:15.61Z"
             },
             {
               "$type": "Document",
@@ -119,8 +114,7 @@
               "RelativeToolTip": "Application\\Models\\Member.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T11:43:30.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T11:43:30.316Z"
             },
             {
               "$type": "Document",
@@ -130,7 +124,7 @@
               "RelativeDocumentMoniker": "Application\\Controllers\\BoardController.cs",
               "ToolTip": "D:\\dev\\ASP_NET\\Application\\Application\\Controllers\\BoardController.cs",
               "RelativeToolTip": "Application\\Controllers\\BoardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T16:37:00.928Z",
               "EditorCaption": ""

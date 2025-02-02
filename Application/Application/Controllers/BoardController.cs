@@ -23,7 +23,9 @@ namespace Application.Controllers
             //ViewBag.Member = member;
             ViewData["Member"] = member;
 
+            
             return View(documents);
+
         }
     }
 }
